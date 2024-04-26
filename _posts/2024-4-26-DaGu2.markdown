@@ -18,7 +18,12 @@ tags:
 ## 正文
 1.内容
     目前有最大公因数，和最小公倍数
-    有彩蛋
+    有彩蛋,
+    如果打不开了，用steam++
+    
 ## 下载
+    GuMath下载:
     https://github.com/DaGuYouXi/download1
+    Steam++下载
+    https://steampp.net/
 
