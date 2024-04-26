@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "大顾数学《GuMathV1.0.0》免费下载"
+subtitle:   "DaGu"
+date:       2024-04-26 22:20:00
+author:     "DaGu"
+catalog: true
+tags:
+    - DaGu
+---
+
+> “Yeah It's on. ”
+
+
+大顾《GuMath》官方下载
+<p id = "build"></p>
+
+## 正文
+1.内容
+    目前有最大公因数，和最小公倍数
+    有彩蛋
+## 下载
+    https://github.com/DaGuYouXi/download1
+
