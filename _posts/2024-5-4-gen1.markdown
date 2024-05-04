@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "大顾数学《GuMathV1.0.0》更新"
+subtitle:   "DaGu"
+date:       2024-05-04 22:20:00
+author:     "DaGu"
+catalog: true
+tags:
+    - DaGu
+---
+
+> “Yeah It's on. ”
+
+
+大顾《GuMath》官方更新
+<p id = "build"></p>
+
+## 正文
+1.内容
+    做了约分、分数乘法。
+    
+## 下载
+    GuMath下载:
+    https://github.com/DaGuYouXi/download1
